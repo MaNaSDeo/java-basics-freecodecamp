@@ -1,7 +1,8 @@
+package org.example;
 
 public class Main {
 
-    // public - visible to everyone, 
+    // public - visible to everyone,
     // class - Defines a blueprint,
     // Main - name of the class, file name must match this when public,
     // this "Main" i.e. top level class's name should match the name of source file,
