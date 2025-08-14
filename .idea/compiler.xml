@@ -5,6 +5,9 @@
       <module name="01-hello-world" target="17" />
       <module name="01-hello-world.main" target="17" />
       <module name="01-hello-world.test" target="17" />
+      <module name="02-variables" target="17" />
+      <module name="02-variables.main" target="17" />
+      <module name="02-variables.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

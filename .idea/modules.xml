@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/01-hello-world.iml" filepath="$PROJECT_DIR$/01-hello-world.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/01-hello-world.main.iml" filepath="$PROJECT_DIR$/.idea/modules/01-hello-world.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/01-hello-world.test.iml" filepath="$PROJECT_DIR$/.idea/modules/01-hello-world.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-variables.iml" filepath="$PROJECT_DIR$/02-variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/02-variables.main.iml" filepath="$PROJECT_DIR$/.idea/modules/02-variables.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/02-variables.test.iml" filepath="$PROJECT_DIR$/.idea/modules/02-variables.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basics-freecodecamp.iml" filepath="$PROJECT_DIR$/java-basics-freecodecamp.iml" />
     </modules>
   </component>
