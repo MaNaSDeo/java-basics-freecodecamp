@@ -17,6 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/05-strings.iml" filepath="$PROJECT_DIR$/05-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/05-strings.main.iml" filepath="$PROJECT_DIR$/.idea/modules/05-strings.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/05-strings.test.iml" filepath="$PROJECT_DIR$/.idea/modules/05-strings.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-user-input.iml" filepath="$PROJECT_DIR$/06-user-input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/06-user-input.main.iml" filepath="$PROJECT_DIR$/.idea/modules/06-user-input.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/06-user-input.test.iml" filepath="$PROJECT_DIR$/.idea/modules/06-user-input.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basics-freecodecamp.iml" filepath="$PROJECT_DIR$/java-basics-freecodecamp.iml" />
     </modules>
   </component>

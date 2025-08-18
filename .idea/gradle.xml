@@ -48,6 +48,15 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06-user-input" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06-user-input" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
