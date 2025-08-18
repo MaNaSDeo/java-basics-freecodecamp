@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/02-variables.iml" filepath="$PROJECT_DIR$/02-variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/02-variables.main.iml" filepath="$PROJECT_DIR$/.idea/modules/02-variables.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/02-variables.test.iml" filepath="$PROJECT_DIR$/.idea/modules/02-variables.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-data-types.iml" filepath="$PROJECT_DIR$/03-data-types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/03-data-types.main.iml" filepath="$PROJECT_DIR$/.idea/modules/03-data-types.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/03-data-types.test.iml" filepath="$PROJECT_DIR$/.idea/modules/03-data-types.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basics-freecodecamp.iml" filepath="$PROJECT_DIR$/java-basics-freecodecamp.iml" />
     </modules>
   </component>
