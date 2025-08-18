@@ -11,6 +11,9 @@
       <module name="03-data-types" target="17" />
       <module name="03-data-types.main" target="17" />
       <module name="03-data-types.test" target="17" />
+      <module name="04-operators" target="17" />
+      <module name="04-operators.main" target="17" />
+      <module name="04-operators.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
