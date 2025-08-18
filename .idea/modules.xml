@@ -20,6 +20,9 @@
       <module fileurl="file://$PROJECT_DIR$/06-user-input.iml" filepath="$PROJECT_DIR$/06-user-input.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/06-user-input.main.iml" filepath="$PROJECT_DIR$/.idea/modules/06-user-input.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/06-user-input.test.iml" filepath="$PROJECT_DIR$/.idea/modules/06-user-input.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-conditional-statements.iml" filepath="$PROJECT_DIR$/07-conditional-statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/07-conditional-statements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/07-conditional-statements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/07-conditional-statements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/07-conditional-statements.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basics-freecodecamp.iml" filepath="$PROJECT_DIR$/java-basics-freecodecamp.iml" />
     </modules>
   </component>

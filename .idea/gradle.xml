@@ -57,6 +57,15 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07-conditional-statements" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07-conditional-statements" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>

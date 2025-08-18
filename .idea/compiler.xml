@@ -20,6 +20,9 @@
       <module name="06-user-input" target="17" />
       <module name="06-user-input.main" target="17" />
       <module name="06-user-input.test" target="17" />
+      <module name="07-conditional-statements" target="17" />
+      <module name="07-conditional-statements.main" target="17" />
+      <module name="07-conditional-statements.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
