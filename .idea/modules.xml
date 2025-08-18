@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/04-operators.iml" filepath="$PROJECT_DIR$/04-operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/04-operators.main.iml" filepath="$PROJECT_DIR$/.idea/modules/04-operators.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/04-operators.test.iml" filepath="$PROJECT_DIR$/.idea/modules/04-operators.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-strings.iml" filepath="$PROJECT_DIR$/05-strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/05-strings.main.iml" filepath="$PROJECT_DIR$/.idea/modules/05-strings.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/05-strings.test.iml" filepath="$PROJECT_DIR$/.idea/modules/05-strings.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basics-freecodecamp.iml" filepath="$PROJECT_DIR$/java-basics-freecodecamp.iml" />
     </modules>
   </component>
