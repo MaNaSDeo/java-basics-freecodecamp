@@ -75,6 +75,10 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/09-array-list" />
+        <option name="gradleHome" value="" />
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
