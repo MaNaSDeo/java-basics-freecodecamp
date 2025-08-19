@@ -23,6 +23,9 @@
       <module fileurl="file://$PROJECT_DIR$/07-conditional-statements.iml" filepath="$PROJECT_DIR$/07-conditional-statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/07-conditional-statements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/07-conditional-statements.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/07-conditional-statements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/07-conditional-statements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-arrays.iml" filepath="$PROJECT_DIR$/08-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/08-arrays.main.iml" filepath="$PROJECT_DIR$/.idea/modules/08-arrays.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/08-arrays.test.iml" filepath="$PROJECT_DIR$/.idea/modules/08-arrays.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basics-freecodecamp.iml" filepath="$PROJECT_DIR$/java-basics-freecodecamp.iml" />
     </modules>
   </component>
