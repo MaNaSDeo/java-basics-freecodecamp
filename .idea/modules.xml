@@ -27,6 +27,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/08-arrays.main.iml" filepath="$PROJECT_DIR$/.idea/modules/08-arrays.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/08-arrays.test.iml" filepath="$PROJECT_DIR$/.idea/modules/08-arrays.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-array-list.iml" filepath="$PROJECT_DIR$/09-array-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/09-array-list.main.iml" filepath="$PROJECT_DIR$/.idea/modules/09-array-list.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/09-array-list.test.iml" filepath="$PROJECT_DIR$/.idea/modules/09-array-list.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-hashmap.iml" filepath="$PROJECT_DIR$/10-hashmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basics-freecodecamp.iml" filepath="$PROJECT_DIR$/java-basics-freecodecamp.iml" />
     </modules>
   </component>

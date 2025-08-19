@@ -26,6 +26,9 @@
       <module name="08-arrays" target="17" />
       <module name="08-arrays.main" target="17" />
       <module name="08-arrays.test" target="17" />
+      <module name="09-array-list" target="17" />
+      <module name="09-array-list.main" target="17" />
+      <module name="09-array-list.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
